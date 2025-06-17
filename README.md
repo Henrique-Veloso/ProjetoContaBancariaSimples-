@@ -1,2 +1,2 @@
-# ProjetoContaBancariaSimples-
-Simulação de conta bancária
+# ProjetoContaBancariaSimples
+Simulação de conta bancária em Java
